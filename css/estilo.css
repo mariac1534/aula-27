@@ -7,5 +7,17 @@ body{
 .box{
     width: 400px;
     height: 400px;
-    background-color: black;
+    margin: 5px;
+}
+
+.c-blueviolet{
+    background-color: blueviolet;
+}
+
+.c-red{
+    background-color: brown;
+}
+
+.c-blue{
+    background-color: cornflowerblue;
 }
